@@ -8,6 +8,8 @@ This works by using two resistors to mix the left and right signal. a decent imp
 
 There is also an extra pad for a divider on the mixer output that can be used to further lower the volume of the output. In general this should be left unpopulated.
 
+A combination footprint was created allowing for either through hole or 0603 SMD resistors to be used.
+
 # License
 The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
