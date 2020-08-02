@@ -1,4 +1,7 @@
 # Simple Passive Stereo to Mono mixer
+
+![Simple Passive Stereo to Mono Mixer](pictures/stereo_to_mono.jpg)
+
 This is a really simple board that allows input of a stereo audio signal through a 3.5mm TRS jack and mixes together the left and right channels and outputs a dual mono signal on a 3.5mm TRS jack.
 
 The design files were created using [KiCad](https://kicad-pcb.org/).
